@@ -4,6 +4,7 @@ def main()
   YearOfBrith = "let my friend update!"
   Working = "WeAreCat - Best Radmin Minecraft Server"
   WorkingDiscord = "https://dsc.gg/wrc"
+  Website = "https://dragonneee.github.io"
   Discord = "let my friend update!"
 
   print("Welcome to my profile!")
